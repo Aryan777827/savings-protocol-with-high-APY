@@ -65,5 +65,6 @@ The Savings Protocol is designed to empower users by providing secure and high-y
 contract address
 "0x63fd1ddf6ce5b96823d75bba1704d8e19bfe1090d61f13b0f820d09db9296c41"
 
+![Screenshot 2025-03-26 110339](https://github.com/user-attachments/assets/b841de10-3023-4640-88b0-b2d0fa65abb3)
 
-![Screenshot 2025-03-26 110339](https://github.com/user-attachments/assets/38bd2106-7028-4c9d-9597-8c3bf88ab238)
+
